@@ -1,6 +1,6 @@
 import openai
 import time
-openai.api_key = "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"
+openai.api_key = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 import tiktoken
 
 
